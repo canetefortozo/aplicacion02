@@ -7,10 +7,10 @@
 	
 	<!-- VersionCode is optional and Android only-->
 	
-	<name>SEMANA SANTA</name>
+	<name>Semana Santa</name>
 	
 	<description>
-	   Aplication que muestra informacion sobre la semana santa
+	   Aplication que muestra conmemoracion en Semana santa
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
@@ -19,7 +19,7 @@
 	  Karla Cañete Fortozo 
 	</author>
 	
-<gap:plugin name="org.apache.cordova.davice" version="0.2.12"/>
+<gap:plugin name="org.apache.cordova.device" version="0.2.12"/>
 	    <gap:plugin name="org.apache.cordova.vibration" version="0.3.0"/>
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"/>
 	
@@ -28,8 +28,5 @@
 	
 <icon src="res/android-mdpi.png"/>
 </widget>
-	
-	
-	
 	
 	
